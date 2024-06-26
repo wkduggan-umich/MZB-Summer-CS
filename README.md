@@ -1,6 +1,6 @@
 # Michigan Mentors Summer CS Materials 
 
-![alt text](https://github.com/wkduggan-umich/MZB-Summer-CS/blob/main/img/MZB_4.png | width=100)
+<img src="https://github.com/wkduggan-umich/MZB-Summer-CS/blob/main/img/MZB_4.png" width="400" height="400">
 
 ## Program Coverage
 This program covers a total of 8 units:
