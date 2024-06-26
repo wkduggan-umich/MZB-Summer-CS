@@ -1,0 +1,221 @@
+-------------------------------------------------------------------------------------------------------------------
+                                                     SMALL TEST
+-------------------------------------------------------------------------------------------------------------------
+"Where the Wild Things Are" by Maurice Sendak (D) was added to Chicago Public Libray.
+"Where the Wild Things Are" by Maurice Sendak (D) was loaned out. There are 3 (of 4 total) copies in Chicago Public Libray.
+"In the Night Kithcen" by Maurice Sendak (D) was added to Chicago Public Libray.
+"Where the Wild Things Are" by Maurice Sendak (D) was returned. There are now 4 copies in Chicago Public Libray of the 4 total copies.
+Chicago Public Libray has a total of 2 different books!
+	4 total copies of "Where the Wild Things Are" by Maurice Sendak (D). Of these, 4 are currently in the Chicago Public Libray.
+	6 total copies of "In the Night Kithcen" by Maurice Sendak (D). Of these, 6 are currently in the Chicago Public Libray.
+	4 total copies of "Where the Wild Things Are" by Maurice Sendak (D). Of these, 4 are currently in the Chicago Public Libray.
+Chicago Public Libray has a total of 2 books by Maurice Sendak!
+	4 total copies of "Where the Wild Things Are" by Maurice Sendak (D). Of these, 4 are currently in the Chicago Public Libray.
+	6 total copies of "In the Night Kithcen" by Maurice Sendak (D). Of these, 6 are currently in the Chicago Public Libray.
+-------------------------------------------------------------------------------------------------------------------
+                                                     LARGE TEST
+-------------------------------------------------------------------------------------------------------------------
+"Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Chamber of Secrets" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Goblet of Fire" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Half-Blood Prince" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Deathly Hallows" by J.K. Rowling (58) was added to New York Public Library.
+"Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Chamber of Secrets" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Goblet of Fire" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Half-Blood Prince" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Deathly Hallows" by J.K. Rowling (58) was added to Carnegie Library.
+"Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Chamber of Secrets" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Goblet of Fire" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Half-Blood Prince" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Deathly Hallows" by J.K. Rowling (58) was added to The British Library.
+"Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58) was loaned out. There are 5 (of 6 total) copies in New York Public Library.
+"Harry Potter and the Goblet of Fire" by J.K. Rowling (58) was loaned out. There are 2 (of 3 total) copies in Carnegie Library.
+"Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58) was loaned out. There are 5 (of 6 total) copies in The British Library.
+"How do Dinosaurs get Well Soon?" by Jane Yolen (85) was loaned out. There are 1 (of 2 total) copies in New York Public Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was loaned out. There are 1 (of 2 total) copies in New York Public Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was loaned out. There are 1 (of 2 total) copies in Carnegie Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was loaned out. There are 1 (of 2 total) copies in The British Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was loaned out. There are 0 (of 2 total) copies in New York Public Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was loaned out. There are 0 (of 2 total) copies in Carnegie Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was loaned out. There are 0 (of 2 total) copies in The British Library.
+There are no copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) to be loaned at New York Public Library.
+There are no copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) to be loaned at Carnegie Library.
+There are no copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) to be loaned at The British Library.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was returned. There are now 1 copies in New York Public Library of the 2 total copies.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was returned. There are now 1 copies in Carnegie Library of the 2 total copies.
+"Harry Potter and the Order of the Phoenix" by J.K. Rowling (58) was returned. There are now 1 copies in The British Library of the 2 total copies.
+There are no copies of "How do Dinosaurs Say Goodnight?" by Jane Yolen (85) currently on loan at New York Public Library.
+	2 total copies of "How do Dinosaurs get Well Soon?" by Jane Yolen (85). Of these, 1 are currently in the New York Public Library.
+	2 total copies of "How do Dinosaurs get Well Soon?" by Jane Yolen (85). Of these, 2 are currently in the Carnegie Library.
+"How do Dinosaurs get Well Soon?" by Jane Yolen (85) was loaned out. There are 0 (of 2 total) copies in New York Public Library.
+"How do Dinosaurs get Well Soon?" by Jane Yolen (85) was loaned out. There are 1 (of 2 total) copies in Carnegie Library.
+New York Public Library has a total of 51 different books!
+	5 total copies of "The Cat in the Hat" by Dr. Seuss (D). Of these, 5 are currently in the New York Public Library.
+	3 total copies of "Green Eggs and Ham" by Dr. Seuss (D). Of these, 3 are currently in the New York Public Library.
+	10 total copies of "How the Grinch Stole Christmas!" by Dr. Seuss (D). Of these, 10 are currently in the New York Public Library.
+	1 total copies of "The Lorax" by Dr. Seuss (D). Of these, 1 are currently in the New York Public Library.
+	7 total copies of "One Fish, Two Fish, Red Fish, Blue Fish" by Dr. Seuss (D). Of these, 7 are currently in the New York Public Library.
+	2 total copies of "Oh, the Places You'll Go!" by Dr. Seuss (D). Of these, 2 are currently in the New York Public Library.
+	4 total copies of "Horton Hears a Who!" by Dr. Seuss (D). Of these, 4 are currently in the New York Public Library.
+	8 total copies of "The Sneetches!" by Dr. Seuss (D). Of these, 8 are currently in the New York Public Library.
+	5 total copies of "Fox in Socks" by Dr. Seuss (D). Of these, 5 are currently in the New York Public Library.
+	4 total copies of "Hop on Pop" by Dr. Seuss (D). Of these, 4 are currently in the New York Public Library.
+	4 total copies of "Dr. Seuss's ABC!" by Dr. Seuss (D). Of these, 4 are currently in the New York Public Library.
+	6 total copies of "The Very Hungry Caterpillar" by Eric Carle (D). Of these, 6 are currently in the New York Public Library.
+	2 total copies of "Brown Bear, Brown Bear, What Do You See?" by Eric Carle (D). Of these, 2 are currently in the New York Public Library.
+	9 total copies of "From Head to Toe" by Eric Carle (D). Of these, 9 are currently in the New York Public Library.
+	7 total copies of "The Tiny Seed" by Eric Carle (D). Of these, 7 are currently in the New York Public Library.
+	3 total copies of "The Grouchy Lady Bug" by Eric Carle (D). Of these, 3 are currently in the New York Public Library.
+	2 total copies of "Little Cloud" by Eric Carle (D). Of these, 2 are currently in the New York Public Library.
+	4 total copies of "Mister Seahorse" by Eric Carle (D). Of these, 4 are currently in the New York Public Library.
+	7 total copies of "Goodnight Moon" by Margaret Wise Brown (D). Of these, 7 are currently in the New York Public Library.
+	2 total copies of "The Runaway Bunny" by Margaret Wise Brown (D). Of these, 2 are currently in the New York Public Library.
+	4 total copies of "The Important Book" by Margaret Wise Brown (D). Of these, 4 are currently in the New York Public Library.
+	6 total copies of "Big Red Barn Big Book" by Margaret Wise Brown (D). Of these, 6 are currently in the New York Public Library.
+	6 total copies of "My World" by Margaret Wise Brown (D). Of these, 6 are currently in the New York Public Library.
+	5 total copies of "Home for a Bunny" by Margaret Wise Brown (D). Of these, 5 are currently in the New York Public Library.
+	1 total copies of "The Little Island" by Margaret Wise Brown (D). Of these, 1 are currently in the New York Public Library.
+	1 total copies of "The Sailor Dog" by Margaret Wise Brown (D). Of these, 1 are currently in the New York Public Library.
+	10 total copies of "Charlotte's Web" by E.B. White (D). Of these, 10 are currently in the New York Public Library.
+	1 total copies of "The Trumpet of the Swan" by E.B. White (D). Of these, 1 are currently in the New York Public Library.
+	1 total copies of "Once More to the Lake" by E.B. White (D). Of these, 1 are currently in the New York Public Library.
+	2 total copies of "Frog and Toad are Friends" by Arnold Lobel (D). Of these, 2 are currently in the New York Public Library.
+	7 total copies of "Frog and Toad Together" by Arnold Lobel (D). Of these, 7 are currently in the New York Public Library.
+	3 total copies of "Frog and Toad All Year" by Arnold Lobel (D). Of these, 3 are currently in the New York Public Library.
+	4 total copies of "Days with Frog and Toad" by Arnold Lobel (D). Of these, 4 are currently in the New York Public Library.
+	5 total copies of "Owl at Home" by Arnold Lobel (D). Of these, 5 are currently in the New York Public Library.
+	7 total copies of "Mouse Soup" by Arnold Lobel (D). Of these, 7 are currently in the New York Public Library.
+	8 total copies of "Mouse Tales" by Arnold Lobel (D). Of these, 8 are currently in the New York Public Library.
+	5 total copies of "Owl Moon" by Jane Yolen (85). Of these, 5 are currently in the New York Public Library.
+	4 total copies of "How do Dinosaurs Say Goodnight?" by Jane Yolen (85). Of these, 4 are currently in the New York Public Library.
+	3 total copies of "How do Dinosaurs go to School?" by Jane Yolen (85). Of these, 3 are currently in the New York Public Library.
+	2 total copies of "How do Dinosaurs get Well Soon?" by Jane Yolen (85). Of these, 0 are currently in the New York Public Library.
+	5 total copies of "How do Dinosaurs Eat Their Food?" by Jane Yolen (85). Of these, 5 are currently in the New York Public Library.
+	7 total copies of "How do Dinosaurs Learn Their Colors?" by Jane Yolen (85). Of these, 7 are currently in the New York Public Library.
+	8 total copies of "How do Dinosaurs Say I Love You?" by Jane Yolen (85). Of these, 8 are currently in the New York Public Library.
+	8 total copies of "How do Dinosaurs Play With Their Friends?" by Jane Yolen (85). Of these, 8 are currently in the New York Public Library.
+	6 total copies of "Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58). Of these, 5 are currently in the New York Public Library.
+	5 total copies of "Harry Potter and the Chamber of Secrets" by J.K. Rowling (58). Of these, 5 are currently in the New York Public Library.
+	4 total copies of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58). Of these, 4 are currently in the New York Public Library.
+	3 total copies of "Harry Potter and the Goblet of Fire" by J.K. Rowling (58). Of these, 3 are currently in the New York Public Library.
+	2 total copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58). Of these, 1 are currently in the New York Public Library.
+	1 total copies of "Harry Potter and the Half-Blood Prince" by J.K. Rowling (58). Of these, 1 are currently in the New York Public Library.
+	2 total copies of "Harry Potter and the Deathly Hallows" by J.K. Rowling (58). Of these, 2 are currently in the New York Public Library.
+Carnegie Library has a total of 51 different books!
+	5 total copies of "The Cat in the Hat" by Dr. Seuss (D). Of these, 5 are currently in the Carnegie Library.
+	3 total copies of "Green Eggs and Ham" by Dr. Seuss (D). Of these, 3 are currently in the Carnegie Library.
+	10 total copies of "How the Grinch Stole Christmas!" by Dr. Seuss (D). Of these, 10 are currently in the Carnegie Library.
+	1 total copies of "The Lorax" by Dr. Seuss (D). Of these, 1 are currently in the Carnegie Library.
+	7 total copies of "One Fish, Two Fish, Red Fish, Blue Fish" by Dr. Seuss (D). Of these, 7 are currently in the Carnegie Library.
+	2 total copies of "Oh, the Places You'll Go!" by Dr. Seuss (D). Of these, 2 are currently in the Carnegie Library.
+	4 total copies of "Horton Hears a Who!" by Dr. Seuss (D). Of these, 4 are currently in the Carnegie Library.
+	8 total copies of "The Sneetches!" by Dr. Seuss (D). Of these, 8 are currently in the Carnegie Library.
+	5 total copies of "Fox in Socks" by Dr. Seuss (D). Of these, 5 are currently in the Carnegie Library.
+	4 total copies of "Hop on Pop" by Dr. Seuss (D). Of these, 4 are currently in the Carnegie Library.
+	4 total copies of "Dr. Seuss's ABC!" by Dr. Seuss (D). Of these, 4 are currently in the Carnegie Library.
+	6 total copies of "The Very Hungry Caterpillar" by Eric Carle (D). Of these, 6 are currently in the Carnegie Library.
+	2 total copies of "Brown Bear, Brown Bear, What Do You See?" by Eric Carle (D). Of these, 2 are currently in the Carnegie Library.
+	9 total copies of "From Head to Toe" by Eric Carle (D). Of these, 9 are currently in the Carnegie Library.
+	7 total copies of "The Tiny Seed" by Eric Carle (D). Of these, 7 are currently in the Carnegie Library.
+	3 total copies of "The Grouchy Lady Bug" by Eric Carle (D). Of these, 3 are currently in the Carnegie Library.
+	2 total copies of "Little Cloud" by Eric Carle (D). Of these, 2 are currently in the Carnegie Library.
+	4 total copies of "Mister Seahorse" by Eric Carle (D). Of these, 4 are currently in the Carnegie Library.
+	7 total copies of "Goodnight Moon" by Margaret Wise Brown (D). Of these, 7 are currently in the Carnegie Library.
+	2 total copies of "The Runaway Bunny" by Margaret Wise Brown (D). Of these, 2 are currently in the Carnegie Library.
+	4 total copies of "The Important Book" by Margaret Wise Brown (D). Of these, 4 are currently in the Carnegie Library.
+	6 total copies of "Big Red Barn Big Book" by Margaret Wise Brown (D). Of these, 6 are currently in the Carnegie Library.
+	6 total copies of "My World" by Margaret Wise Brown (D). Of these, 6 are currently in the Carnegie Library.
+	5 total copies of "Home for a Bunny" by Margaret Wise Brown (D). Of these, 5 are currently in the Carnegie Library.
+	1 total copies of "The Little Island" by Margaret Wise Brown (D). Of these, 1 are currently in the Carnegie Library.
+	1 total copies of "The Sailor Dog" by Margaret Wise Brown (D). Of these, 1 are currently in the Carnegie Library.
+	10 total copies of "Charlotte's Web" by E.B. White (D). Of these, 10 are currently in the Carnegie Library.
+	1 total copies of "The Trumpet of the Swan" by E.B. White (D). Of these, 1 are currently in the Carnegie Library.
+	1 total copies of "Once More to the Lake" by E.B. White (D). Of these, 1 are currently in the Carnegie Library.
+	2 total copies of "Frog and Toad are Friends" by Arnold Lobel (D). Of these, 2 are currently in the Carnegie Library.
+	7 total copies of "Frog and Toad Together" by Arnold Lobel (D). Of these, 7 are currently in the Carnegie Library.
+	3 total copies of "Frog and Toad All Year" by Arnold Lobel (D). Of these, 3 are currently in the Carnegie Library.
+	4 total copies of "Days with Frog and Toad" by Arnold Lobel (D). Of these, 4 are currently in the Carnegie Library.
+	5 total copies of "Owl at Home" by Arnold Lobel (D). Of these, 5 are currently in the Carnegie Library.
+	7 total copies of "Mouse Soup" by Arnold Lobel (D). Of these, 7 are currently in the Carnegie Library.
+	8 total copies of "Mouse Tales" by Arnold Lobel (D). Of these, 8 are currently in the Carnegie Library.
+	5 total copies of "Owl Moon" by Jane Yolen (85). Of these, 5 are currently in the Carnegie Library.
+	4 total copies of "How do Dinosaurs Say Goodnight?" by Jane Yolen (85). Of these, 4 are currently in the Carnegie Library.
+	3 total copies of "How do Dinosaurs go to School?" by Jane Yolen (85). Of these, 3 are currently in the Carnegie Library.
+	2 total copies of "How do Dinosaurs get Well Soon?" by Jane Yolen (85). Of these, 1 are currently in the Carnegie Library.
+	5 total copies of "How do Dinosaurs Eat Their Food?" by Jane Yolen (85). Of these, 5 are currently in the Carnegie Library.
+	7 total copies of "How do Dinosaurs Learn Their Colors?" by Jane Yolen (85). Of these, 7 are currently in the Carnegie Library.
+	8 total copies of "How do Dinosaurs Say I Love You?" by Jane Yolen (85). Of these, 8 are currently in the Carnegie Library.
+	8 total copies of "How do Dinosaurs Play With Their Friends?" by Jane Yolen (85). Of these, 8 are currently in the Carnegie Library.
+	6 total copies of "Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58). Of these, 6 are currently in the Carnegie Library.
+	5 total copies of "Harry Potter and the Chamber of Secrets" by J.K. Rowling (58). Of these, 5 are currently in the Carnegie Library.
+	4 total copies of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58). Of these, 4 are currently in the Carnegie Library.
+	3 total copies of "Harry Potter and the Goblet of Fire" by J.K. Rowling (58). Of these, 2 are currently in the Carnegie Library.
+	2 total copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58). Of these, 1 are currently in the Carnegie Library.
+	1 total copies of "Harry Potter and the Half-Blood Prince" by J.K. Rowling (58). Of these, 1 are currently in the Carnegie Library.
+	2 total copies of "Harry Potter and the Deathly Hallows" by J.K. Rowling (58). Of these, 2 are currently in the Carnegie Library.
+The British Library has a total of 7 different books!
+	6 total copies of "Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58). Of these, 5 are currently in the The British Library.
+	5 total copies of "Harry Potter and the Chamber of Secrets" by J.K. Rowling (58). Of these, 5 are currently in the The British Library.
+	4 total copies of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58). Of these, 4 are currently in the The British Library.
+	3 total copies of "Harry Potter and the Goblet of Fire" by J.K. Rowling (58). Of these, 3 are currently in the The British Library.
+	2 total copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58). Of these, 1 are currently in the The British Library.
+	1 total copies of "Harry Potter and the Half-Blood Prince" by J.K. Rowling (58). Of these, 1 are currently in the The British Library.
+	2 total copies of "Harry Potter and the Deathly Hallows" by J.K. Rowling (58). Of these, 2 are currently in the The British Library.
+New York Public Library has a total of 7 books by J.K. Rowling!
+	6 total copies of "Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58). Of these, 5 are currently in the New York Public Library.
+	5 total copies of "Harry Potter and the Chamber of Secrets" by J.K. Rowling (58). Of these, 5 are currently in the New York Public Library.
+	4 total copies of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58). Of these, 4 are currently in the New York Public Library.
+	3 total copies of "Harry Potter and the Goblet of Fire" by J.K. Rowling (58). Of these, 3 are currently in the New York Public Library.
+	2 total copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58). Of these, 1 are currently in the New York Public Library.
+	1 total copies of "Harry Potter and the Half-Blood Prince" by J.K. Rowling (58). Of these, 1 are currently in the New York Public Library.
+	2 total copies of "Harry Potter and the Deathly Hallows" by J.K. Rowling (58). Of these, 2 are currently in the New York Public Library.
+Carnegie Library has a total of 7 books by J.K. Rowling!
+	6 total copies of "Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58). Of these, 6 are currently in the Carnegie Library.
+	5 total copies of "Harry Potter and the Chamber of Secrets" by J.K. Rowling (58). Of these, 5 are currently in the Carnegie Library.
+	4 total copies of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58). Of these, 4 are currently in the Carnegie Library.
+	3 total copies of "Harry Potter and the Goblet of Fire" by J.K. Rowling (58). Of these, 2 are currently in the Carnegie Library.
+	2 total copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58). Of these, 1 are currently in the Carnegie Library.
+	1 total copies of "Harry Potter and the Half-Blood Prince" by J.K. Rowling (58). Of these, 1 are currently in the Carnegie Library.
+	2 total copies of "Harry Potter and the Deathly Hallows" by J.K. Rowling (58). Of these, 2 are currently in the Carnegie Library.
+The British Library has a total of 7 books by J.K. Rowling!
+	6 total copies of "Harry Potter and the Sorcerer's Stone" by J.K. Rowling (58). Of these, 5 are currently in the The British Library.
+	5 total copies of "Harry Potter and the Chamber of Secrets" by J.K. Rowling (58). Of these, 5 are currently in the The British Library.
+	4 total copies of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling (58). Of these, 4 are currently in the The British Library.
+	3 total copies of "Harry Potter and the Goblet of Fire" by J.K. Rowling (58). Of these, 3 are currently in the The British Library.
+	2 total copies of "Harry Potter and the Order of the Phoenix" by J.K. Rowling (58). Of these, 1 are currently in the The British Library.
+	1 total copies of "Harry Potter and the Half-Blood Prince" by J.K. Rowling (58). Of these, 1 are currently in the The British Library.
+	2 total copies of "Harry Potter and the Deathly Hallows" by J.K. Rowling (58). Of these, 2 are currently in the The British Library.
+New York Public Library has a total of 3 books by E.B. White!
+	10 total copies of "Charlotte's Web" by E.B. White (D). Of these, 10 are currently in the New York Public Library.
+	1 total copies of "The Trumpet of the Swan" by E.B. White (D). Of these, 1 are currently in the New York Public Library.
+	1 total copies of "Once More to the Lake" by E.B. White (D). Of these, 1 are currently in the New York Public Library.
+Carnegie Library has a total of 3 books by E.B. White!
+	10 total copies of "Charlotte's Web" by E.B. White (D). Of these, 10 are currently in the Carnegie Library.
+	1 total copies of "The Trumpet of the Swan" by E.B. White (D). Of these, 1 are currently in the Carnegie Library.
+	1 total copies of "Once More to the Lake" by E.B. White (D). Of these, 1 are currently in the Carnegie Library.
+New York Public Library has a total of 8 books by Jane Yolen!
+	5 total copies of "Owl Moon" by Jane Yolen (85). Of these, 5 are currently in the New York Public Library.
+	4 total copies of "How do Dinosaurs Say Goodnight?" by Jane Yolen (85). Of these, 4 are currently in the New York Public Library.
+	3 total copies of "How do Dinosaurs go to School?" by Jane Yolen (85). Of these, 3 are currently in the New York Public Library.
+	2 total copies of "How do Dinosaurs get Well Soon?" by Jane Yolen (85). Of these, 0 are currently in the New York Public Library.
+	5 total copies of "How do Dinosaurs Eat Their Food?" by Jane Yolen (85). Of these, 5 are currently in the New York Public Library.
+	7 total copies of "How do Dinosaurs Learn Their Colors?" by Jane Yolen (85). Of these, 7 are currently in the New York Public Library.
+	8 total copies of "How do Dinosaurs Say I Love You?" by Jane Yolen (85). Of these, 8 are currently in the New York Public Library.
+	8 total copies of "How do Dinosaurs Play With Their Friends?" by Jane Yolen (85). Of these, 8 are currently in the New York Public Library.
+Carnegie Library has a total of 8 books by Jane Yolen!
+	5 total copies of "Owl Moon" by Jane Yolen (85). Of these, 5 are currently in the Carnegie Library.
+	4 total copies of "How do Dinosaurs Say Goodnight?" by Jane Yolen (85). Of these, 4 are currently in the Carnegie Library.
+	3 total copies of "How do Dinosaurs go to School?" by Jane Yolen (85). Of these, 3 are currently in the Carnegie Library.
+	2 total copies of "How do Dinosaurs get Well Soon?" by Jane Yolen (85). Of these, 1 are currently in the Carnegie Library.
+	5 total copies of "How do Dinosaurs Eat Their Food?" by Jane Yolen (85). Of these, 5 are currently in the Carnegie Library.
+	7 total copies of "How do Dinosaurs Learn Their Colors?" by Jane Yolen (85). Of these, 7 are currently in the Carnegie Library.
+	8 total copies of "How do Dinosaurs Say I Love You?" by Jane Yolen (85). Of these, 8 are currently in the Carnegie Library.
+	8 total copies of "How do Dinosaurs Play With Their Friends?" by Jane Yolen (85). Of these, 8 are currently in the Carnegie Library.

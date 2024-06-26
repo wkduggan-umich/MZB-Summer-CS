@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------------------------------------------
+                                                     SMALL TEST
+-------------------------------------------------------------------------------------------------------------------
+"Where the Wild Things Are" by Maurice Sendak (D) was added to Chicago Public Libray.
+"Where the Wild Things Are" by Maurice Sendak (D) was loaned out. There are 3 (of 4 total) copies in Chicago Public Libray.
+"In the Night Kithcen" by Maurice Sendak (D) was added to Chicago Public Libray.
+"Where the Wild Things Are" by Maurice Sendak (D) was returned. There are now 4 copies in Chicago Public Libray of the 4 total copies.
+Chicago Public Libray has a total of 2 different books!
+	4 total copies of "Where the Wild Things Are" by Maurice Sendak (D). Of these, 4 are currently in the Chicago Public Libray.
+	6 total copies of "In the Night Kithcen" by Maurice Sendak (D). Of these, 6 are currently in the Chicago Public Libray.
+	4 total copies of "Where the Wild Things Are" by Maurice Sendak (D). Of these, 4 are currently in the Chicago Public Libray.
+Chicago Public Libray has a total of 2 books by Maurice Sendak!
+	4 total copies of "Where the Wild Things Are" by Maurice Sendak (D). Of these, 4 are currently in the Chicago Public Libray.
+	6 total copies of "In the Night Kithcen" by Maurice Sendak (D). Of these, 6 are currently in the Chicago Public Libray.
