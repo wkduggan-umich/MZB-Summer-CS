@@ -12,6 +12,9 @@ This program covers a total of 8 units:
   7. Functions
   8. Structs and Classes
 
+## Lecture Slides
+  1. [Lecture 1: The Machine Model](https://docs.google.com/presentation/d/1mRY-3_wxENKh_Prk3W170RcEuzlOdoJ6lz31FUCfmKk/edit)
+
 ## Workshop Slides
   1. [Introduction and Setup](https://docs.google.com/presentation/d/14AtLAeN4iSMThM_QGga3vRavaI6sT9lhdM3gdqsr0tI/edit#slide=id.g274b99b4db4_1_155)
 
