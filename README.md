@@ -35,9 +35,9 @@ Each of these units has its own programming mini-project:
 Students will conduct a small statistical analysis, where they will use code to gather evidence in order to present an argument. This is an open ended project so students are encouraged to get creative! More to come!
 
 ## Contact Info
-#### Aministrative Questions
+#### Aministrative Questions:
 mzbtutors@gmail.com OR jhrobins@umich.edu
-#### Workshop Questions
+#### Workshop Questions:
 nwlrvd@umich.edu
-#### Workshop Questions
+#### Workshop Questions:
 wkduggan@umich.edu
