@@ -15,6 +15,7 @@ This program covers a total of 8 units:
 ## Lecture Slides
   1. [Lecture 1: The Machine Model](https://docs.google.com/presentation/d/1mRY-3_wxENKh_Prk3W170RcEuzlOdoJ6lz31FUCfmKk/edit)
   2. [Lecture 2: Foundational Programming in C++](https://docs.google.com/presentation/d/1SHf-8SsMBC5XO5kKpwEWT4nsTMzXxtrPTL_Clk87nWY/edit?usp=sharing)
+  3. [Lecture 3: Logic in Programming](https://docs.google.com/presentation/d/1OeIhqbe2hM8VRz7ZCSuO5ZQmA_ykjw6eCvLp7Z2M2s4/edit?usp=sharing)
 
 ## Workshop Slides
   1. [Workshop 1: Introduction and Setup](https://docs.google.com/presentation/d/14AtLAeN4iSMThM_QGga3vRavaI6sT9lhdM3gdqsr0tI/edit#slide=id.g274b99b4db4_1_155)
