@@ -21,6 +21,7 @@ This program covers a total of 8 units:
 ## Workshop Slides
   1. [Workshop 1: Introduction and Setup](https://docs.google.com/presentation/d/14AtLAeN4iSMThM_QGga3vRavaI6sT9lhdM3gdqsr0tI/edit#slide=id.g274b99b4db4_1_155)
   2. [Workshop 2: Introduction to the Terminal & Unit 1 Problems](https://docs.google.com/presentation/d/1XY3HiVy3atMA8rY1ZqzJAkba65fw3vUdQKjH8fhgJ1c/edit#slide=id.g2e8a8016937_0_130)
+  3. [Workshop 3: Variables and Mathematical Operations](https://docs.google.com/presentation/d/1KlHJ_wAPlQNDYkgBq1FOPhlas6KYDp7CJfWuAnKrJzU/edit#slide=id.g2e9f6e00622_0_578)
 
 ## Coding Problems
 Each of these units has its own programming mini-project:
