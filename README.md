@@ -42,7 +42,7 @@ Students will conduct a small statistical analysis, where they will use code to 
 ## Contact Info
 #### Aministrative Questions:
 mzbtutors@gmail.com OR jhrobins@umich.edu
-#### Workshop Questions:
+#### Lecture Questions:
 nwlrvd@umich.edu
 #### Workshop Questions:
 wkduggan@umich.edu
