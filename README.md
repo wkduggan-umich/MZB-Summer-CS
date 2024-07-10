@@ -24,6 +24,7 @@ This program covers a total of 8 units:
   2. [Workshop 2: Introduction to the Terminal & Unit 1 Problems](https://docs.google.com/presentation/d/1XY3HiVy3atMA8rY1ZqzJAkba65fw3vUdQKjH8fhgJ1c/edit#slide=id.g2e8a8016937_0_130)
   3. [Workshop 3: Variables and Mathematical Operations & Unit 2 Problem](https://docs.google.com/presentation/d/1KlHJ_wAPlQNDYkgBq1FOPhlas6KYDp7CJfWuAnKrJzU/edit#slide=id.g2e9f6e00622_0_578)
   4. [Workshop 4: Boolean Logic & Unit 3 Problem](https://docs.google.com/presentation/d/1rNZvyxaT2t2Gtl2SGQn-nzcLr2NNIaE70R_YVpgSRiY/edit#slide=id.p)
+  5. [Workshop 5: Vectors & Unit 4 Problem](https://docs.google.com/presentation/d/1xgDBDGq7QrWIzB7887ibXFDmummb41mmchnBaiWJaWA/edit#slide=id.p)
 
 ## Coding Problems
 Each of these units has its own programming mini-project:
