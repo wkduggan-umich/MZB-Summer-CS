@@ -25,6 +25,7 @@ This program covers a total of 8 units:
   3. [Workshop 3: Variables and Mathematical Operations & Unit 2 Problem](https://docs.google.com/presentation/d/1KlHJ_wAPlQNDYkgBq1FOPhlas6KYDp7CJfWuAnKrJzU/edit#slide=id.g2e9f6e00622_0_578)
   4. [Workshop 4: Boolean Logic & Unit 3 Problem](https://docs.google.com/presentation/d/1rNZvyxaT2t2Gtl2SGQn-nzcLr2NNIaE70R_YVpgSRiY/edit#slide=id.p)
   5. [Workshop 5: Vectors & Unit 4 Problem](https://docs.google.com/presentation/d/1xgDBDGq7QrWIzB7887ibXFDmummb41mmchnBaiWJaWA/edit#slide=id.p)
+  6. [Workshop 6: Iteration & Unit 5 Problem](https://docs.google.com/presentation/d/1lkcffZvEk4sBfREBVj129x9woGh_gtUrp7pJ3SSQvZU/edit#slide=id.g2ec4c551d7a_0_765)
 
 ## Coding Problems
 Each of these units has its own programming mini-project:
