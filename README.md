@@ -18,6 +18,7 @@ This program covers a total of 8 units:
   3. [Lecture 3: Logic in Programming](https://docs.google.com/presentation/d/1OeIhqbe2hM8VRz7ZCSuO5ZQmA_ykjw6eCvLp7Z2M2s4/edit?usp=sharing)
   4. [Lecture 4: Data Structures](https://docs.google.com/presentation/d/1Ai0iBkZcfj4W1swPHokshyyQQ3T97LbMuRWvziz-z_k/edit?usp=sharing)
   5. [Lecture 5: Iteration](https://docs.google.com/presentation/d/121C_lwAC6caDNN8hqrpCShDCmiVm7dyE8kfRmrYOygA/edit#slide=id.p)
+  6. [Lecture 6: Errors, Scope, and More](https://docs.google.com/presentation/d/1vm33aVM4QJXEpCg1mvkDnZWwW-uoN36l2mCdBFG4k7A/edit?usp=sharing)
 
 ## Workshop Slides
   1. [Workshop 1: Introduction and Setup](https://docs.google.com/presentation/d/14AtLAeN4iSMThM_QGga3vRavaI6sT9lhdM3gdqsr0tI/edit#slide=id.g274b99b4db4_1_155)
