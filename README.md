@@ -28,6 +28,7 @@ This program covers a total of 8 units:
   5. [Workshop 5: Vectors & Unit 4 Problem](https://docs.google.com/presentation/d/1xgDBDGq7QrWIzB7887ibXFDmummb41mmchnBaiWJaWA/edit#slide=id.p)
   6. [Workshop 6: Iteration & Unit 5 Problem](https://docs.google.com/presentation/d/1lkcffZvEk4sBfREBVj129x9woGh_gtUrp7pJ3SSQvZU/edit#slide=id.g2ec4c551d7a_0_765)
   7. [Workshop 7: Debugging and Errors & Unit 6 Problem](https://docs.google.com/presentation/d/1WZPzH3sHP1kRRKxZjOTKiUmUmbrsvyB7VEEuiaROxHk/edit#slide=id.g2ee405222dc_0_691)
+  8. [Workshop 8: Functions & Unit 7 Problem](https://docs.google.com/presentation/d/1qv4LXCBb8rquQ7fwF2CmXajB4c4WMCFTM4Z_R9GCLug/edit#slide=id.g2ee813122c9_0_578)
 
 ## Coding Problems
 Each of these units has its own programming mini-project:
