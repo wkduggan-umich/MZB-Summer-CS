@@ -46,7 +46,15 @@ void play_game(int num_games){
         char computer_move = Get_Random_Opponent_Move();
 
         //TODO: decide who wins based on the user_input and computer_move variables
-
+        if(user_input == computer_move){
+            cout << "You tie!\n";
+        } else if((user_input == 'r' && computer_move == 's') || (user_input == 's' && computer_move == 'p') 
+            || (user_input == 'p' && computer_move == 'r')){
+            cout << "You win!\n";
+        } else if(!((user_input == 'r' && computer_move == 's') || (user_input == 's' && computer_move == 'p') 
+            || (user_input == 'p' && computer_move == 'r'))){
+            cout << "You lose!\n";
+        }
     }
 
 }
