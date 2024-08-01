@@ -47,7 +47,7 @@ Students will conduct a small statistical analysis, where they will use code to 
 
 [Project Introduction](https://docs.google.com/presentation/d/1vKGISXI-gGMAXv1nyDrbGsfUesZ4-Loq3CEnWAb-qxk/edit#slide=id.p)
 
-[Starter and Example Code]()
+[Starter and Example Code](https://github.com/wkduggan-umich/MZB-Summer-CS-Final-Project)
 
 ## Contact Info
 #### Aministrative Questions:
