@@ -45,6 +45,9 @@ Each of these units has its own programming mini-project:
 ## Final Project
 Students will conduct a small statistical analysis, where they will use code to gather evidence in order to present an argument. This is an open ended project so students are encouraged to get creative! More to come!
 
+[Project Introduction](https://docs.google.com/presentation/d/1vKGISXI-gGMAXv1nyDrbGsfUesZ4-Loq3CEnWAb-qxk/edit#slide=id.p)
+[Starter and Example Code]()
+
 ## Contact Info
 #### Aministrative Questions:
 mzbtutors@gmail.com OR jhrobins@umich.edu
